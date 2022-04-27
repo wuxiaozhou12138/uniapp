@@ -1,0 +1,15 @@
+
+.wrapper.data-v-4b5d8239{
+	display: flex;
+	justify-content: space-around;
+}
+.active.data-v-4b5d8239{
+	color: #eb4450;
+	border-bottom: 5rpx solid #eb4450;
+}
+.tabs-item.data-v-4b5d8239{
+	width: 100%;
+	text-align: center;
+	padding: 15rpx 0;
+}
+
